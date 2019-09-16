@@ -1,14 +1,16 @@
-### Communicator PR checklist
+## Communicator PR checklist
 
-🚨Please review the [guidelines for contributing](../CONTRIBUTING.md) to this repository.
+#### Jira link
 
-* [ ] Make sure you are requesting to **pull a topic/feature/bugfix branch** (right side). Don't request your master!
-* [ ] Make sure you are making a pull request against the **canary branch** (left side). Also you should start _your branch_ off _our canary_.
-* [ ] Check the commit's or even all commits' message styles matches our requested structure.
-* [ ] Check your code additions will fail neither code linting checks nor unit test.
+#### Summary of changes
+Describe your changes (permissions/security, wiki documentation, unit test coverage, translations, etc.)
 
-### Description
+#### Areas impacted:
+List general areas impacted and anything that should be tested that may not be obvious
 
-Please describe your pull request.
-
-💔Thank you!
+#### Steps
+* [ ] Unit and integration tests pass
+* [ ] UX Review (if applicable)?
+* [ ] Is JIRA story updated with latest story changes?
+* [ ] Squash + merge
+* [ ] Branch deleted
