@@ -1,14 +1,13 @@
-## Communicator PR checklist
+### Jira link
+Story: 
 
-#### Jira link
-
-#### Summary of changes
+### Summary of changes
 Describe your changes (permissions/security, wiki documentation, unit test coverage, translations, etc.)
 
-#### Areas impacted:
+### Areas impacted:
 List general areas impacted and anything that should be tested that may not be obvious
 
-#### Steps
+### Steps
 * [ ] Unit and integration tests pass
 * [ ] UX Review (if applicable)?
 * [ ] Is JIRA story updated with latest story changes?
