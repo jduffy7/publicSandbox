@@ -2,7 +2,7 @@
 Story: 
 
 ### Summary of changes
-Describe your changes (permissions/security, wiki documentation, unit test coverage, translations, etc.)
+Describe your changes (permissions/security, unit test coverage, translations, etc.)
 
 ### Areas impacted:
 List general areas impacted and anything that should be tested that may not be obvious
